@@ -130,6 +130,10 @@
         "id": "diwako-cpred-additions",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "better-rolltables",
+        "type": "module"
       }
     ]
   }
