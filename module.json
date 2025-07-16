@@ -1,0 +1,136 @@
+{
+  "id": "sannos-super-cyberpunk-extras",
+  "title": "Sanno's Super Cyberpunk Extras",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Cyberpunk RED DLC\n- Toggle's Temple\n- Going Metal\n- Going Quiet\n- 12 Days of Gearmas\nGear\n- Food\n- Drinks\n- Gear\n- Vehicles\nActors\n- Mooks & More ;)",
+  "authors": [
+    {
+      "name": "SannoSama",
+      "url": "https://www.paypal.com/donate/?hosted_button_id=2CYARBA9SST8W",
+      "discord": "SannoSama"
+    }
+  ],
+  "url": "https://www.paypal.com/donate/?hosted_button_id=2CYARBA9SST8W",
+  "download": "https://github.com/Sannosama/sannos-super-cyberpunk-extras/archive/refs/heads/main.zip",
+  "packs": [
+    {
+      "name": "toggles-temple",
+      "label": "Toggle's Temple",
+      "path": "packs/toggles-temple",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "going-metal",
+      "label": "Going Metal",
+      "path": "packs/going-metal",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "going-quiet",
+      "label": "Going Quiet",
+      "path": "packs/going-quiet",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "12-days-of-gearmas",
+      "label": "The 12 Days of Gearmas",
+      "path": "packs/12-days-of-gearmas",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "roll-tables",
+      "label": "Roll Tables",
+      "path": "packs/roll-tables",
+      "type": "RollTable",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "food",
+      "label": "Food",
+      "path": "packs/food",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "gear",
+      "label": "Gear",
+      "path": "packs/gear",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "weapons",
+      "label": "Weapons",
+      "path": "packs/weapons",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "actors",
+      "label": "Actors",
+      "path": "packs/actors",
+      "type": "Actor",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "tables",
+      "label": "Tables",
+      "path": "packs/tables",
+      "type": "JournalEntry",
+      "system": "cyberpunk-red-core",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Sanno's Super Cyberpunk Extras",
+      "packs": [
+        "toggles-temple",
+        "going-metal",
+        "going-quiet",
+        "12-days-of-gearmas",
+        "roll-tables",
+        "macros",
+        "food",
+        "gear",
+        "weapons",
+        "actors",
+        "tables"
+      ]
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "diwako-cpred-additions",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
