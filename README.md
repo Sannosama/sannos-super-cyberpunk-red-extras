@@ -91,7 +91,7 @@ If you find this module valuable or just wanna fuel the next upload, consider sh
 **Manually install by using Foundry VTT**
 -  Add-on Module
 - Install Module
-- In the Manifest URL paste [repo’s `module.json`.](https://raw.githubusercontent.com/Sannosama/sannos-super-cyberpunk-red-extras/refs/heads/main/module.json)
+- In the Manifest URL paste https://raw.githubusercontent.com/Sannosama/sannos-super-cyberpunk-red-extras/refs/heads/main/module.json
 
 ---
 
