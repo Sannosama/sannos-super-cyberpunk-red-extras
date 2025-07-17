@@ -19,7 +19,7 @@ Inject full content from some of your favorite Cyberpunk RED supplements — all
 ---
 
 ### :books: Reference Library  
-- Every chart you'll ever need — in one place, easily referenced mid-game
+- 📊 Every chart you'll ever need — in one place, easily referenced mid-game
 
 ---
 
@@ -42,16 +42,16 @@ Pre-built for chaos, color, and cybernetic consequences:
 ---
 
 ### :stew: Food & Drink  
-- **Kibble Flavors** — every known variety  
-- **Triti Friz** — all flavors  
-- **Alcohols** — from gutterbrew to corpo vintage
+- 🥣 **Kibble Flavors** — every known variety  
+- 🥤 **Triti Friz** — all flavors  
+- 🍺 **Alcohols** — from gutterbrew to corpo vintage
 
 ---
 
 ### 👨‍👩‍👧‍👦 Actors  
-- **Bozos**, **Drones**, **Yakuza**, **Adam Smasher**  
-- Fully loaded **Merchants**: Woodchipper, Hornet, Toggle & more  
-- Functional **Vendits** with randomized goods
+- 🤡 **Bozos**, **Drones**, **Yakuza**, **Adam Smasher**  
+- 🛒 Fully loaded **Merchants**: Woodchipper, Hornet, Toggle & more  
+- 🖥 Functional **Vendits** with randomized goods
 
 ---
 
@@ -62,16 +62,16 @@ Pre-built for chaos, color, and cybernetic consequences:
 ---
 
 ### :red_car: Vehicles  
-- **Cybernetic Horse** — Yeehaw, choom  
-- **Bozo Ice Cream Truck**  
-- **Inflatable Boat** — because chrome still floats
+- 🏇 **Cybernetic Horse** — Yeehaw, choom  
+- 🚛 **Bozo Ice Cream Truck**  
+- 🚣🏽‍♂️ **Inflatable Boat** — because chrome still floats
 
 ---
 
 ### :gun: Weapons  
-- **Stickball Stick**  
-- **Strongman Hammer**  
-- **Lapel Flower Squirter** (Seriously.)
+- 🥍 **Stickball Stick**  
+- 🔨 **Strongman Hammer**  
+- 🌼 **Lapel Flower Squirter** (Seriously.)
 
 ### AND MORE!
 
