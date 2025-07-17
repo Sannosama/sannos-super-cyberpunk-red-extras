@@ -50,7 +50,7 @@ Pre-built for chaos, color, and cybernetic consequences:
 
 ### 👨‍👩‍👧‍👦 Actors  
 - 🤡 **Bozos**, **Drones**, **Yakuza**, **Adam Smasher**  
-- 🛒 Fully loaded **Merchants**: Woodchipper, Hornet, Toggle & more  
+- 🛍️ Fully loaded **Merchants**: Woodchipper, Hornet, Toggle & more  
 - 🖥 Functional **Vendits** with randomized goods
 
 ---
