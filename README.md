@@ -37,7 +37,7 @@ Pre-built for chaos, color, and cybernetic consequences:
 
 - :boom: **Equipment Malfunction Table**  
 - :robot: **Vendit Loot Tables**  
-- :cloud_rain: **Weather Generator** — Rain, radiation, and red skies at night
+- 🌦️ **Weather Generator** — Rain, radiation, and red skies at night
 
 ---
 
