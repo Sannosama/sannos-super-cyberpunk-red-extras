@@ -55,9 +55,9 @@ Pre-built for chaos, color, and cybernetic consequences:
 
 ---
 
-### :video_game: Gear Galore  
-- Braindance chips, retro video games  
-- HB Toys: Remote Detonators, Geiger Counters, Inflatable Salvage Bags, and more
+### 🎒 Gear Galore  
+- :video_game: Braindance chips, retro video games  
+- 📟 HB Toys: Remote Detonators, Geiger Counters, Inflatable Salvage Bags, and more
 
 ---
 
