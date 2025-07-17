@@ -48,7 +48,7 @@ Pre-built for chaos, color, and cybernetic consequences:
 
 ---
 
-### :man_standing: Actors  
+### 👨‍👩‍👧‍👦 Actors  
 - **Bozos**, **Drones**, **Yakuza**, **Adam Smasher**  
 - Fully loaded **Merchants**: Woodchipper, Hornet, Toggle & more  
 - Functional **Vendits** with randomized goods
