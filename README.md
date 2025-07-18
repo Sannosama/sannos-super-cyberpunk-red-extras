@@ -82,8 +82,9 @@ Pre-built for chaos, color, and cybernetic consequences:
 This was a passion project — long hours, deep dives into rulebooks, and a lot of love for the game.  
 If you find this module valuable or just wanna fuel the next upload, consider showing some support:
 
-:point_right: [**Donate via PayPal**](https://www.paypal.com/donate/?hosted_button_id=2CYARBA9SST8W)
-:point_right: [**Join My Patrion**](https://www.patreon.com/sannosama)
+- :point_right: [**Join My Patrion**](https://www.patreon.com/sannosama)
+- :point_right: [**Donate via PayPal**](https://www.paypal.com/donate/?hosted_button_id=2CYARBA9SST8W)
+
 
 ---
 
