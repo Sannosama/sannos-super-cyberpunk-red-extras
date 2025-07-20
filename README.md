@@ -9,7 +9,7 @@ This module delivers a data-spike of flavorful content for GMs and players looki
 ## :floppy_disk: What’s Inside?
 
 ### :jigsaw: DLC Add-Ons  
-Inject full content from some of your favorite Cyberpunk RED supplements — all pre-built for Foundry VTT:
+Inject full content from some of your favorite Cyberpunk RED supplements all pre-built for Foundry VTT:
 
 - **Toggle's Temple**: Every gun, ready to fire  
 - **Going Metal**: Full Body Conversions, pre-configured for easy PC/NPC use  
