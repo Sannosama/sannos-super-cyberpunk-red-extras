@@ -19,7 +19,7 @@ Inject full content from some of your favorite Cyberpunk RED supplements all pre
 ---
 
 ### :books: Reference Library  
-- 📊 Every chart you'll ever need — in one place, easily referenced mid-game
+- 📊 Every chart you'll ever need in one place, easily referenced mid-game
 
 ---
 
